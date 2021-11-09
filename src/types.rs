@@ -8,7 +8,7 @@
  * Arrays
  */
 
-// Rust is a statically types language, which means that it must know the types of all
+// Rust is a statically typed language, which means that it must know the types of all
 // variables at compile time. However, the compiler can usually infer what type we want to use
 // based on the value and how we use it.
 
